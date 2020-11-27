@@ -1,5 +1,5 @@
-x:32
-y:18
+x:36
+y:12
 BEGIN
 
   |
@@ -53,64 +53,717 @@ END
   |
 END
 
-  S
+  E|
 END
 
-  St
+  Ei|
 END
 
-  Sta
+  Eie|
 END
 
-  Stat
+  Eier|
 END
 
-  State
+  Eier
+  |
 END
 
-  State
+  Eier
+  Z|
 END
 
-  State o
+  Eier
+  Zu|
 END
 
-  State of
+  Eier
+  Zuc|
 END
 
-  State of
+  Eier
+  Zuck|
 END
 
-  State of t
+  Eier
+  Zucke|
 END
 
-  State of th
+  Eier
+  Zucker|
 END
 
-  State of the
+  Eier
+  Zucker
+  |
 END
 
-  State of the
+  Eier
+  Zucker
+  S|
 END
 
-  State of the W
+  Eier
+  Zucker
+  Sa|
 END
 
-  State of the Wa
+  Eier
+  Zucker
+  Sal|
 END
 
-  State of the Waf
+  Eier
+  Zucker
+  Salz|
 END
 
-  State of the Waff
+  Eier
+  Zucker
+  Salz
+  |
 END
 
-  State of the Waffl
+  Eier
+  Zucker
+  Salz
+  M|
 END
 
-  State of the Waffle
+  Eier
+  Zucker
+  Salz
+  Mi|
 END
 
-  State of the Waffle
+  Eier
+  Zucker
+  Salz
+  Mil|
 END
 
-  State of the Waffle
+  Eier
+  Zucker
+  Salz
+  Milc|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  |
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  V|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Va|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Van|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vani|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanil|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanill|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  |
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  M|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Me|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Meh|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  |
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  B|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Bu|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  But|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butt|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butte|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butte|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  |
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  B|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Ba|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Bac|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Back|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backp|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpu|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpul|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulv|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulve|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  |
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  M|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Ma|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mat|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  |
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  e|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  et|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  etw|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  etwa|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  etwas|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  etwas |
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  etwas R|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  etwas Ru|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  etwas Rum|
+END
+
+  Eier
+  Zucker
+  Salz
+  Milch
+  Vanille
+  Mehl
+  Butter
+  Backpulver
+  Mate
+  etwas Rum
+END
+
+  E er
+  Zicker
+  Sualz   f       a
+  Milih
+  Vanllle
+  Mehr
+  Buteerlver
+  Mata
+  etw s Rum
+END
+
+    e
+  Zicker
+  Stalz l  f      a f
+  Mehr
+  Buteerlver
+  Mata
+  etw s Rum
+END
+
+
+   i k r
+  S tatz  of      a fle
+  Mehr
+        Rum
+END
+
+
+
+   State  of the Waffle
+END
+
+
+
+   State  of the Waffle
+END
+
+
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+              ==
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+             ====
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+            ======
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+           ========
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+          ==========
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+         ============
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+        ==============
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+       ================
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+      ==================
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+     ====================
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+    ======================
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+   ========================
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+END
+
+  ==========================
+
+   State  of the Waffle
+
+     Wahre Fakten heiß serviert
+                     und gezuckert
+
